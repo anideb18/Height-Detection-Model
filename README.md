@@ -1,1 +1,1 @@
-Height Detection Model using OpenCV to detect and estimate height realtime and from images or videos.
+Height and Object Detection Model using OpenCV to detect and estimate height realtime, or from images and videos.
